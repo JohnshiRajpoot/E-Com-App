@@ -4,7 +4,6 @@
 Buy Now is An e-commerce app. In this app I use Machine Learning Algorithm for users can search visually. Users upload or take a photo, and this Algorithm will search for a similar product.
 [![Codacy Security Scan](https://github.com/JahidHasanCO/BuyNow-App/actions/workflows/codacy-analysis.yml/badge.svg?branch=master)](https://github.com/JahidHasanCO/BuyNow-App/actions/workflows/codacy-analysis.yml) [![Android CI](https://github.com/JahidHasanCO/BuyNow.-The-E-commerce-App/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/JahidHasanCO/BuyNow.-The-E-commerce-App/actions/workflows/android.yml)
 
-
 ## Built With 🛠
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android
@@ -18,5 +17,44 @@ Buy Now is An e-commerce app. In this app I use Machine Learning Algorithm for u
   - Modular and customizable Material Design UI components for Android.
 - [Figma](https://figma.com/) - Figma is a vector graphics editor and prototyping tool which is
   primarily web-based.
+
+
+## Day Mode 🌞
+Login Page | SignUp Page | Home Page | Home Page2 | Shop Page | Shop Page2 | Bag Page | Visual Search Page
+--- | --- | --- |--- |--- |--- |--- |---  
+![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Login_activity.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/SignUp_activity.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Home_activity.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Home_activity2.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Shop.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Shop2.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Bag_activity.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Visual_search_activity.png) 
+
+<br />
+
+## We Support Dark Mode Too 🌚
+Login Page | SignUp Page | Home Page | Home Page2 | Shop Page | Bag Page | Visual Search Page
+--- | --- | --- |--- |--- |--- |--- 
+![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Login_activity_dark.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/SignUp_activity_dark.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Home_activity_dark.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Home_activity2_dark.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Shop_dark.png) |  ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Bag_activity_dark.png) | ![](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/Visual_search_activity_dark.png) 
+
+<br />
+
+```
+MIT License
+
+Copyright (c) 2023 Johnshi Rajpoot
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 
